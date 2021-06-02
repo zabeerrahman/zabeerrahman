@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Lil Wayne, skateboarding, and martial arts.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zabeerrahman)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zabeerrahman&hide=tex)](https://github.com/anuraghazra/github-readme-stats)
 
