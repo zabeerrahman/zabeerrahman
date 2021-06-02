@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about blockchain development.
 - 👯 I’m looking to collaborate on anything IT related!
 - 🤔 I’m always looking for help with my coding skills.
-- 💬 Ask me about Mathematics!
+- 💬 Ask me about Mathematics! Check out my pinned repositories too!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zabeer-rahman/ "Zab's LinkedIn")
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Lil Wayne, skateboarding, and martial arts.
