@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m eager to join a diplomatic team of skilled individuals who are developing an emerging and disruptive technology.
-- 🌱 I’m currently learning about blockchain development.
+- 🌱 I’m currently learning about cyptography and blockchain development.
 - 👯 I’m looking to collaborate on anything IT related!
 - 🤔 I’m always looking for help with my coding skills.
 - 💬 Ask me about Mathematics! Check out my pinned repositories too!
