@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Interests: Lil Wayne, skateboarding, martial arts.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zabeerrahman&langs_count=9&hide=tex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zabeerrahman&langs_count=9&hide=tex&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
