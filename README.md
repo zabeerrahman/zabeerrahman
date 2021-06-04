@@ -8,11 +8,11 @@ Here are some ideas to get you started:
 - 🔭 I’m eager to join a diplomatic team of skilled individuals who are developing an emerging and disruptive technology.
 - 🌱 I’m currently learning about blockchain development.
 - 👯 I’m looking to collaborate on anything IT related!
-- 🤔 I’m always looking for help with my coding skills.
+- 🤔 I’m always looking for help with my cryptography research.
 - 💬 Ask me about Mathematics! Check out my pinned repositories too!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zabeer-rahman/ "Zab's LinkedIn")
 - 😄 Pronouns: he/him
-- ⚡ Interests: Lil Wayne, skateboarding, martial arts.
+- ⚡ Interests: Lil Wayne, Solidity, skateboarding, martial arts.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zabeerrahman&langs_count=9&hide=tex&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
