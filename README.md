@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m always eager to work with a diplomatic team of skilled individuals who are developing an emerging and disruptive technology.
-- ☁️ I'm working as a Software Development Consultant.
+- ☁️ I'm working as a Software Development Consultant at the moment.
 - 🌱 I’m currently learning more about Salesforce.
 - 👯 I’m looking to collaborate on anything IT related!
 - 🤔 I’m never not seeking help with my cryptography research.
