@@ -6,9 +6,10 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m always eager to work with a diplomatic team of skilled individuals who are developing an emerging and disruptive technology.
-- 🌱 I’m currently learning about Salesforce development.
+- ☁️ I'm working as a Software Development Consultant.
+- 🌱 I’m currently learning more about Salesforce.
 - 👯 I’m looking to collaborate on anything IT related!
-- 🤔 I’m never not looking for help with my cryptography research.
+- 🤔 I’m never not seeking help with my cryptography research.
 - 💬 Ask me about Mathematics! Check out my pinned repositories too!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zabeer-rahman/ "Zab's LinkedIn")
 - 😄 Pronouns: he/him
