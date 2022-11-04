@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 
 [![Zab's GitHub stats](https://github-readme-stats.vercel.app/api?username=zabeerrahman&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
--->
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/zabeerrahman)](https://git.io/awesome-stats-card)
+
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zabeerrahman&langs_count=9&hide=tex&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
