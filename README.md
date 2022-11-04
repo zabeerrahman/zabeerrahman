@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about Mathematics! Check out my pinned repositories too!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zabeer-rahman/ "Zab's LinkedIn")
 - 😄 Pronouns: he/him
-- ⚡ Interests: Lil Wayne, martial arts, skateboarding.
+- ⚡ Interests: Lil Wayne, martial arts, Sex Ed (sexual education), skateboarding, Agatha Christie novels.
+
+[![Zab's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zabeerrahman&langs_count=9&hide=tex&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
